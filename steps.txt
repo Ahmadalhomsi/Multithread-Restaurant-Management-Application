@@ -1,0 +1,31 @@
+Toplam Oncelikli Musteri: 2
+Toplam Oncelikli Musteri: 5
+5 Oncelikli musteri one alindi
+Steps Loop
+(X < 6) Adding customers from another step
+main: Musteri 1 is sitting at Table 1
+main: Musteri 2 is sitting at Table 2
+main: Musteri 3 is sitting at Table 3
+main: Musteri 4 is sitting at Table 4
+main: Musteri 5 is sitting at Table 5
+main: Musteri 6 is sitting at Table 6
+MUSTERI LIST SIZE: 6, K: 0
+Thread-10: Garson 2 took the order of Musteri 2 at Table 2
+Thread-9: Garson 1 took the order of Musteri 1 at Table 1
+Thread-11: Garson 3 took the order of Musteri 3 at Table 3
+Thread-10: Garson 2 is sending orders to the chefs.
+Thread-11: Garson 3 is sending orders to the chefs.
+Thread-9: Garson 1 is sending orders to the chefs.
+X Masa: 3
+X Masa: 2
+X Masa: 1
+MUSTERI LIST SIZE: 6, K: 3
+Thread-15: Garson 1 took the order of Musteri 4 at Table 4
+Thread-17: Garson 3 took the order of Musteri 6 at Table 6
+Thread-16: Garson 2 took the order of Musteri 5 at Table 5
+Yemek: 1 Masa: 3 Asci: 1
+Yemek: 1 Masa: 1 Asci: 2
+Yemek: 0 Masa: 2 Asci: 2
+Thread-14: Asci 2 is preparing the order for Thread-3 at Table 1. Served by Garson 1
+Thread-12: Asci 2 is preparing the order for Thread-4 at Table 2. Served by Garson 2
+Thread-13: Asci 1 is preparing the order for Thread-5 at Table 3. Served by Garson 3
