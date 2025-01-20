@@ -1,8 +1,6 @@
 ## Screenshots
-![](<(https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/blob/master/Pics/1.png)>)
-![](<(https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/blob/master/Pics/2.png)>)
-![](<(https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/blob/master/Pics/3.png)>)
-![](<(https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/blob/master/Pics/4.png)>)
-![](<(https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/blob/master/Pics/5.png)>)
-![](<(https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/blob/master/Pics/6.png)>)
-![](<(https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/blob/master/Pics/7.png)>)
+
+| ![Screenshot 1](https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/raw/master/Pics/1.png) | ![Screenshot 2](https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/raw/master/Pics/2.png) | ![Screenshot 3](https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/raw/master/Pics/3.png) |
+|:--------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
+| ![Screenshot 4](https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/raw/master/Pics/4.png) | ![Screenshot 5](https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/raw/master/Pics/5.png) | ![Screenshot 6](https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/raw/master/Pics/6.png) |
+| ![Screenshot 7](https://github.com/Ahmadalhomsi/Multithread-Restaurant-Management-Application/raw/master/Pics/7.png) |                                                                                                  |                                                                                                  |
